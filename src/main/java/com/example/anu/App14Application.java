@@ -23,6 +23,8 @@ public class App14Application {
 
            int k = 20;
 
+String name = "anuragh";
+
 	}
 
 }
