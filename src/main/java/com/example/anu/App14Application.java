@@ -22,8 +22,8 @@ public class App14Application {
            int m = 20;
 
            int k = 20;
-
-String name = "anuragh";
+           int i = 40;
+            String name = "anuragh";
 
 	}
 
