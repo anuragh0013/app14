@@ -18,7 +18,11 @@ public class App14Application {
 //		emp.calCustomQueries(10);
 		emp.calByFindBy(10000.00);
 
+
            int m = 20;
+
+           int k = 20;
+
 	}
 
 }
