@@ -9,6 +9,11 @@ import com.example.anu.service.EmpService;
 @SpringBootApplication
 public class App14Application {
 
+
+public void m2(){
+int l=100;
+
+}
 	public static void main(String[] args) {
 		ApplicationContext context =
 				SpringApplication.run(App14Application.class, args);
