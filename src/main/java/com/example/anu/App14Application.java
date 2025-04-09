@@ -12,7 +12,7 @@ public class App14Application {
 
 public void m2(){
 int l=100;
-
+}
 public void m1()
 {
 int i=70;
